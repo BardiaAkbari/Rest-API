@@ -1,0 +1,42 @@
+[
+    {
+      "uuid": "7b58f24e-2a3c-4a1f-8c99-553b7c10d3d1",
+      "title": "Inception",
+      "year": 2010,
+      "genre": ["Action", "Sci-Fi", "Thriller"],
+      "rating": 8.7,
+      "director": "Christopher Nolan"
+    },
+    {
+      "uuid": "edc0b5db-4c1e-4c1c-8d9d-c2b91e97130a",
+      "title": "The Shawshank Redemption",
+      "year": 1994,
+      "genre": ["Drama"],
+      "rating": 9.3,
+      "director": "Frank Darabont"
+    },
+    {
+      "uuid": "97e60179-4a61-4e4d-8e35-6e2d47b59364",
+      "title": "Star Wars: Episode IV - A New Hope",
+      "year": 1977,
+      "genre": ["Action", "Adventure", "Fantasy"],
+      "rating": 8.6,
+      "director": "George Lucas"
+    },
+    {
+      "uuid": "a7e3a2fe-132b-40fb-a520-59b0345a96e4",
+      "title": "The Matrix",
+      "year": 1999,
+      "genre": ["Action", "Sci-Fi"],
+      "rating": 8.7,
+      "director": "Lana Wachowski, Lilly Wachowski"
+    },
+    {
+      "uuid": "74e7a450-1d17-4dbd-94c2-11c3a6b49c7b",
+      "title": "Pulp Fiction",
+      "year": 1994,
+      "genre": ["Crime", "Drama"],
+      "rating": 8.9,
+      "director": "Quentin Tarantino"
+    }
+  ]
